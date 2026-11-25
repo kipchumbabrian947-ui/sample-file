@@ -1,4 +1,7 @@
-Name: NAME
-Laptop: LAPTOP
-Favourite: teh ls command
-DELETE THIS LINE
+#!usr/bin/env bash
+
+To implement every step of what I desire I need a character
+
+A figure/personality to stand at every season
+
+It is the only way to true freedom, irony, self-slavery but aint that the best form of freedom?
